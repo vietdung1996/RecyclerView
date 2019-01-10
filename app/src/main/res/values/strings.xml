@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">RecyclerView</string>
+    <string name="app_name">Homework_RecyclerView</string>
+    <string name="spider_man">spider man</string>
+    <string name="super_man">super man</string>
+    <string name="bat_man">Batman</string>
 </resources>
 
